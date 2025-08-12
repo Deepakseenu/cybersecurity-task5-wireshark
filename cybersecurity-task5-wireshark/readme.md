@@ -19,4 +19,5 @@ To capture and analyze network traffic in real-time and identify at least 3 prot
 - **TCP**: Transport layer protocol used by HTTP and DNS.
 
 ## Output
-- `task5_capture.pcap`
+- `task5_capture.pcap` [Note: This file can be opened only using Wireshark]
+
